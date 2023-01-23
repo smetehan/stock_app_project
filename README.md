@@ -1,4 +1,4 @@
-https://stock-app-project-ten.vercel.app/(projenin canlı hali)
+https://stock-app-project-ten.vercel.app/                   (projenin canlı hali)
 
 # Redux Toolkit Ornegi
 
