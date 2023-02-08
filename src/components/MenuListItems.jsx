@@ -46,7 +46,7 @@ const icons = [
   {
     title: "Admin Panel",
     icon: <SupervisorAccountIcon />,
-    url: "https://13655.fullstack.clarusway.com/admin",
+    url: "https://sevket.pythonanywhere.com//admin",
   },
 ];
 const iconStyle = {
