@@ -1,3 +1,5 @@
+https://stock-app-project-ten.vercel.app/                   (projenin canlı hali)
+
 # Redux Toolkit Ornegi
 
 ## `Kurulum`
